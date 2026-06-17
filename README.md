@@ -17,7 +17,7 @@ Today, through **9th Direction Tech Solutions**, we deliver world-class software
 ---
 
 ### 🌐 Featured Ventures & Products
-* **[9th Direction Tech Solutions](https://9thdirection.com):** Providing enterprise-grade software delivery and IT consulting through a highly optimized, distributed hub-and-spoke execution model.
+* **[9th Direction Tech Solutions](https://9th-direction.com):** Providing enterprise-grade software delivery and IT consulting through a highly optimized, distributed hub-and-spoke execution model.
 * **Proprietary AI Legal Portal:** A secure, product-led AI platform engineered from the ground up to solve complex compliance, pipeline data visibility, and workflow bottlenecks for legal professionals.
 
 ---
@@ -42,7 +42,7 @@ Today, through **9th Direction Tech Solutions**, we deliver world-class software
 I am always open to collaborating with corporate executives, institutional leaders, and fellow innovators looking to build resilient, compliant, and transformative tech.
 
 * 💼 **LinkedIn:** [linkedin.com/in/ohmkumar80](https://linkedin.com) *(Update with your exact URL snippet)*
-* 🌐 **Company Website:** [9thdirection.com](https://9thdirection.com)
+* 🌐 **Company Website:** [9th-direction.com](https://9th-direction.com)
 
 
 *"Aligning complex technology execution with definitive business vision."*
