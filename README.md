@@ -28,13 +28,6 @@ Today, through **9th Direction Tech Solutions**, we deliver world-class software
 * **Accessibility / UI:** WCAG 2.0 Level AA, Section 508, Responsive Design, Front-end Optimization
 * **Tools & Frameworks:** Power Platform, Custom LLM Gateways, SauceLabs, qTest, Jira
 
----
-
-### 📈 GitHub Stats & Momentum
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohmkumar80&show_icons=true&theme=tokyonight&count_private=true" alt="Ohm's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmkumar80&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
 
 ---
 
